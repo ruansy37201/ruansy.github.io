@@ -13,8 +13,8 @@ locale                   : "zh-CN"
 title                    : "智控工坊"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://ruansy37201.github.io" # the base hostname & protocol for your site
-baseurl                  : "https://ruansy37201.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://github.com/mmistakes/minimal-mistakes" # the base hostname & protocol for your site
+baseurl                  : "https://github.com/mmistakes/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "ruansy37201/ruansy37201.github.io" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.webp" # Site logo displayed in the masthead
