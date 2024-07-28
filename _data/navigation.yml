@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Theme Documentation"
+  - title: "关于我"
     url: https://perstarke-webdev.de/oneflow-jekyll-theme
     blank: true
     description: "The documentation for this theme, on https://perstarke-webdev.de"
-  - title: "Section 1"
+  - title: "我的资源"
     url: /#section-1
     blank: false
-  - title: "Section 2"
+  - title: "我的笔记"
     url: /#section-2
     blank: false
   - title: "Section 3"
